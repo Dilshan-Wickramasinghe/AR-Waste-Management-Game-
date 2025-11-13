@@ -94,6 +94,3 @@ Author: Dilshan Wickramasinghe
 GitHub: [https://github.com/Dilshan-Wickramasinghe](https://github.com/Dilshan-Wickramasinghe)
 Feel free to open an issue for bug reports or feature requests.
 
----
-
-If you like, I can **generate badges** (build status, license, platform compatibility) and **add a “Screenshots / Demo” section** with placeholders (you’d just need to supply images). Would you like me to extend the README with those extras?
