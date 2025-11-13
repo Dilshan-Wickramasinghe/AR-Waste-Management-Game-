@@ -4,7 +4,7 @@ An Augmented Reality (AR)-based game aimed at educating and engaging users in wa
 
 ## Project Overview
 
-This project aims to create a game using Augmented Reality to raise awareness about waste segregation, recycling, and sustainable behaviour. Players use their device cameras (or AR markers) to interact with virtual waste items, sort them into the correct bins, perhaps earn points or complete levels — thereby turning environmental education into engaging gameplay.
+This project aims to create a game using Augmented Reality to raise awareness about waste segregation, recycling, and sustainable behaviour. Players use their device cameras (or AR markers) to interact with virtual waste items, sort them into the correct bins, perhaps earn points or complete levels thereby turning environmental education into engaging gameplay.
 
 ## Features
 
